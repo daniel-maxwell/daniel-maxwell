@@ -15,5 +15,5 @@
 <br><br>
 ## ⚡ GitHub Stats
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-maxwell&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="DanielWhite" height="195" />
-<a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=daniel-maxwell&theme=dark&card_width=450&background=45%2C1E1842%2C5847C2" alt="GitHub Streak" /></a></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-maxwell&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="DanielWhite" height="195" /> &nbsp;
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daniel-maxwell&theme=dark&card_width=450&background=45%2C1E1842%2C5847C2" alt="GitHub Streak" /></a></p>
