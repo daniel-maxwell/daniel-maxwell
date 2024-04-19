@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ## ⚡ GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-maxwell&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="majdimokhtar" height="195" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daniel-maxwell&theme=dark&card_width=500&background=45%2C1E1842%2C5847C2" alt="GitHub Streak" /></a></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daniel-maxwell&theme=dark&card_width=300&background=45%2C1E1842%2C5847C2" alt="GitHub Streak" /></a></p>
