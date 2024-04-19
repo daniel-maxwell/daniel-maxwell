@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://github.com/daniel-maxwell/daniel-maxwell/assets/66431847/6703fcb9-2a03-4831-89e5-90a8204faa42">
 
 
-<br>🙋🏼‍♂️ I’m a Software Engineer and Computer Science Student
+🙋🏼‍♂️ I’m a Software Engineer and Computer Science Student
 
 💬 Ask me about: **Back-end Web Development** and **Cloud Computing**
 
