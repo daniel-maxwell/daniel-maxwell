@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=22&color=016EEA&size=24&lines=Hi+there+%F0%9F%91%8B%2C++I'm+Daniel+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB...++;Welcome+to+my+GitHub!;I+love+to+learn,+and+hone+my+skills+%F0%9F%92%A1+++;Check+out+my+projects+below!+%F0%9F%91%87)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://github.com/daniel-maxwell/daniel-maxwell/assets/66431847/6703fcb9-2a03-4831-89e5-90a8204faa42">
-![9e5c77872f818509afc1766a86c9a68b](https://github.com/user-attachments/assets/3ed50fcc-4d76-47b4-8445-6e9c411fa45d)
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/3ed50fcc-4d76-47b4-8445-6e9c411fa45d">
 
 
 🙋🏼‍♂️ I’m a Software Engineer and Computer Science Student
