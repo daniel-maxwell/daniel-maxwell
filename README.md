@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=22&color=016EEA&size=24&lines=Hi+there+%F0%9F%91%8B%2C++I'm+Daniel+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB...++;Welcome+to+my+GitHub!;I+love+to+learn,+and+hone+my+skills+%F0%9F%92%A1+++;Check+out+my+projects+below!+%F0%9F%91%87)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="375" height="256" src="https://github.com/user-attachments/assets/3ed50fcc-4d76-47b4-8445-6e9c411fa45d">
+<img align="right" alt="Coding" width="375" height="250" src="https://github.com/user-attachments/assets/3ed50fcc-4d76-47b4-8445-6e9c411fa45d">
 
 
 🙋🏼‍♂️ I’m a Software Engineer and Computer Science Student
