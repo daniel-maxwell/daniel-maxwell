@@ -7,7 +7,7 @@
 
 💬 Ask me about: **Back-end Development** and **Performance Computing**
 
-🌱 I’m currently studying: **Advanced Web Development** and **Distributed Systems**
+🌱 I’m currently studying: **System Design** and **Distributed Systems**
 
 📫 Reach out to me at: **dm.white@gmx.com**
 
