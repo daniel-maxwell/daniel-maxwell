@@ -18,5 +18,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-maxwell&show_icons=true&theme=tokyonight&locale=en&layout=compact&cache-bust=1" alt="DanielWhite" height="195" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=daniel-maxwell&theme=dark&border_radius=5&card_width=400&background=1A1B27&hide_longest_streak=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-hgqwf38gw.vercel.app?user=daniel-maxwell&theme=dark&border_radius=5&card_width=400&background=201C24&hide_longest_streak=true" alt="GitHub Streak"/>
 </div>
